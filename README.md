@@ -1,8 +1,8 @@
-##Data Science Tools and Ecosystem
+## Data Science Tools and Ecosystem
 
-#In this notebook, Data Science tools and Ecosystem are summarized
+In this notebook, Data Science tools and Ecosystem are summarized
 
-Objectives
+### Objectives
 
 Popular Data Science programming languages
 Commonly used libraries
