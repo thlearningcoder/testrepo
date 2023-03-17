@@ -31,7 +31,7 @@ In this notebook, Data Science tools and Ecosystem are summarized
 6. Spark.
 
 #### JupyterLab JupyterNotebook PyCharm
-### The line below shows a few examples of evaluated mathematical expressions in Python
+### The code in next file shows a few examples of evaluated mathematical expressions in Python
 
 ## Author
 ## Sreeprada Chintaginjala
