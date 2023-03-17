@@ -22,3 +22,5 @@ Some of the most commonly used libraries in the field of Data Science include:
 3. Scipy
 4. Motplotlib
 5. PyTorch
+#### JupyterLab JupyterNotebook PyCharm
+### The line below shows a few examples of evaluated mathematical expressions in Python
