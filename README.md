@@ -8,14 +8,14 @@ In this notebook, Data Science tools and Ecosystem are summarized
 + Commonly used libraries
 + Other used Data Science tools
 + Arithmatic expressions in Python
-# Some of the most commonly used programming languages in Data Science are:
+### Some of the most commonly used programming languages in Data Science are:
 
 1. Python
 2.SQL
 3. R
 4. Julia
 5. Scala
-# Some of the most commonly used libraries in the field of Data Science include:
+### Some of the most commonly used libraries in the field of Data Science include:
 
 1. TensorFlow
 2. Numpy
