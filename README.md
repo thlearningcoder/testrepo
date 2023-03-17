@@ -22,6 +22,13 @@ In this notebook, Data Science tools and Ecosystem are summarized
 3. Scipy
 4. Motplotlib
 5. PyTorch
+### Some most commonly uses Data Science Tools:
+1. R
+2. SAS
+3. Python
+4. Tableau
+5. Hadoop
+6. Spark.
 
 #### JupyterLab JupyterNotebook PyCharm
 ### The line below shows a few examples of evaluated mathematical expressions in Python
